@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shri2023-optimization/static/css/main.5e8a5c93.css",
+    "main.js": "/shri2023-optimization/static/js/main.94d9dd19.js",
+    "static/media/bg@2x.png": "/shri2023-optimization/static/media/bg@2x.b23d48f2e17f0ebd4d42.png",
+    "static/media/lato.woff2": "/shri2023-optimization/static/media/lato.be36596da218e1eec01c.woff2",
+    "static/media/icon_sun.svg": "/shri2023-optimization/static/media/icon_sun.ab45bd1abea4a81765bb.svg",
+    "static/media/icon_sun_2.svg": "/shri2023-optimization/static/media/icon_sun_2.f1c80687f8b99c25c4c9.svg",
+    "static/media/icon_temperature.svg": "/shri2023-optimization/static/media/icon_temperature.0d19e216b2d5b7971f85.svg",
+    "static/media/icon_temperature_2.svg": "/shri2023-optimization/static/media/icon_temperature_2.b61801258e48a97351d6.svg",
+    "static/media/logo.svg": "/shri2023-optimization/static/media/logo.67c159bc892217e8dd0a.svg",
+    "index.html": "/shri2023-optimization/index.html",
+    "static/media/arrow-down.svg": "/shri2023-optimization/static/media/arrow-down.df28057bed06b62d840b.svg",
+    "static/media/icon_list_m@1x.svg": "/shri2023-optimization/static/media/icon_list_m@1x.b49e39d77199a3850f4d.svg",
+    "static/media/icon_scheduled.svg": "/shri2023-optimization/static/media/icon_scheduled.a7106c30e4a8aaf47d7d.svg",
+    "static/media/cloud-drizzle.svg": "/shri2023-optimization/static/media/cloud-drizzle.f0b1ac4d5ea1e81eaa05.svg",
+    "main.5e8a5c93.css.map": "/shri2023-optimization/static/css/main.5e8a5c93.css.map",
+    "main.94d9dd19.js.map": "/shri2023-optimization/static/js/main.94d9dd19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e8a5c93.css",
+    "static/js/main.94d9dd19.js"
+  ]
+}
